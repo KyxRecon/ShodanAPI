@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Shodan API - By Alexcerus HR
+# Shodan API - By Lucifer HR
 # THanks to the legend Hood3dRob1n
 
 # in case you got shodan error use command below
