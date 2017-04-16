@@ -1,6 +1,6 @@
 Tool name : Shodan API - Tool Search Assistant
 
-Author : Lucifer 
+Author : Kyxrec0n 
 -----------------------------------
 Have you ever needed to write a quick script to download data from Shodan?
 Okey 
